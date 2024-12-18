@@ -18,6 +18,6 @@ I'm a Python developer with a passion for building scalable, clean, and efficien
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DenDEV9903&show_icons=true&theme=radical&count_private=true)
 
 ---
