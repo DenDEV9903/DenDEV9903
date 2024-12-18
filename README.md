@@ -18,12 +18,10 @@ I'm a Python developer with a passion for building scalable, clean, and efficien
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DenDEV9903&show_icons=true&theme=radical&count_private=true)
-
----
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DenDEV9903&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DenDEV9903&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DenDEV9903&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DenDEV9903&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DenDEV9903&theme=solarized_dark)
+
+---
